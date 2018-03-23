@@ -1,0 +1,15 @@
+{
+  "name": "bs-future",
+  "version": "1.0.0",
+  "description": "A ReasonML implementation of a Future data structure. ",
+  "main": "src/Future.bs.js",
+  "repository": "git@github.com:scull7/bs-future.git",
+  "author": "Nathan Sculli <scull7@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "bs-platform": "^2.2.3"
+  },
+  "devDependencies": {
+    "bs-jest": "^0.3.2"
+  }
+}
